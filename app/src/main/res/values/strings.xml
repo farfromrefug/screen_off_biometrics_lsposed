@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="xposed_desc">Module to disable biometrics while the screen is off on Android 10</string>
+</resources>
